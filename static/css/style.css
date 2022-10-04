@@ -1,0 +1,12 @@
+body {
+    background-color: aqua ;
+}
+.mail{
+    border: 1px coral;
+    background: blue;
+    width: 30px;
+}
+
+.age_style{
+    font-size: 20px;
+}
